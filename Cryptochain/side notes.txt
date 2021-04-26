@@ -1,0 +1,7 @@
+building a crypto chain
+
+we will first install node js 
+=> npm init -y
+then we will install jest liberery
+
+=> npm i jest@23.6.0 --save-dev
